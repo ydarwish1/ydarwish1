@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Yusif
 
-### **AI Security Intern at [Carolina Cyber Network]**
+### **AI Security Intern at Carolina Cyber Network**
 
 > Building Security For Agents, Obsessed With Learning About AI & Cybersecurity
 
