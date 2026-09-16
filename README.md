@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Yusif
 
-### **AI Security Intern at [Carolina Cyber Network](https://carolinacybernetwork.net)**
+### **AI Security Intern at [Carolina Cyber Network]**
 
 > Building Security For Agents, Obsessed With Learning About AI & Cybersecurity
 
@@ -14,8 +14,6 @@
 | **[Airlock](https://github.com/ydarwish1/Airlock)** · *in progress* | One safe box any AI agent runs inside — least privilege, full audit trail. |
 
 ---
-
-[Portfolio](https://yusif-darwish-portfolio.vercel.app) · DM me on [x](https://x.com/yusifdarw)
 <!--
 **ydarwish1/ydarwish1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
