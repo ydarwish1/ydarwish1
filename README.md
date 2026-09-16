@@ -1,5 +1,21 @@
-## Hi there 👋
+## 👋 Hey, I'm Yusif
 
+### **AI Security Intern at [Carolina Cyber Network](https://carolinacybernetwork.net)**
+
+> Building Security For Agents, Obsessed With Learning About AI & Cybersecurity
+
+#### *some of my favorite work is:*
+
+| Project | Description |
+| --- | --- |
+| **[GlyphHound](https://github.com/ydarwish1/glyphhound)** | Catches AI model files that hide executable code in chat templates before you load them. |
+| **[MalSkill Scanner](https://github.com/ydarwish1/Malskill-Scanner)** | Audits agent skills and MCP servers for content that would push an agent against its operator. |
+| **[agent-chokepoint](https://github.com/ydarwish1/agent-chokepoint)** | MCP security gateway — every tool call hits one point that returns allow, block, or ask. |
+| **[Airlock](https://github.com/ydarwish1/Airlock)** · *in progress* | One safe box any AI agent runs inside — least privilege, full audit trail. |
+
+---
+
+[Portfolio](https://yusif-darwish-portfolio.vercel.app) · DM me on [x](https://x.com/yusifdarw)
 <!--
 **ydarwish1/ydarwish1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
