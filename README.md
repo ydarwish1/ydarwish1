@@ -11,6 +11,8 @@
 | **[GlyphHound](https://github.com/ydarwish1/glyphhound)** | Catches AI model files that hide executable code in chat templates before you load them. |
 | **[MalSkill Scanner](https://github.com/ydarwish1/Malskill-Scanner)** | Audits agent skills and MCP servers for content that would push an agent against its operator. |
 | **[agent-chokepoint](https://github.com/ydarwish1/agent-chokepoint)** | MCP security gateway — every tool call hits one point that returns allow, block, or ask. |
+| **[Agent Terminal](https://github.com/ydarwish1/agentterminal)** | Claude Code, Codex, Cursor, Grok, Gemini and Pi as real terminals in one browser page — link two so they hand off work. |
+| **[Agent View](https://github.com/ydarwish1/agentview)** | A live map of what your Claude Code agents are doing right now — every tool, every subagent. Read-only, zero dependencies. |
 | **[Airlock](https://github.com/ydarwish1/Airlock)** · *in progress* | One safe box any AI agent runs inside — least privilege, full audit trail. |
 
 ---
